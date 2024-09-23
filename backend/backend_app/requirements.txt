@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+asterisk-ami
+telnetlib3
+pystrix

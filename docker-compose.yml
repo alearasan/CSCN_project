@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  asterisk:
+    build:
+      context: ./asterisk
+    ports:
+      - "5060:5060/udp"
+      - "5038:5038"
+
+  backend:
+    build:
+      context: ./backend
+    ports:
+      - "8000:8000"
+
+  https_proxy:
+    build:
+      context: ./https_proxy
+    ports:
+      - "443:443"
