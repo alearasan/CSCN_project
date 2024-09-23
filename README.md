@@ -1,5 +1,7 @@
 # CSCN_project
-Final project Communication System in Corporate Networks' subject
+Final project Communication System in Corporate Networks' subject, erasmus 2023-2024
+
+![image](https://github.com/user-attachments/assets/271adc48-5682-43fe-80a7-355360ab32ca)
 
 # Asterisk PBX Information System
 
